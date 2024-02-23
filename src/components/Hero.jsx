@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 import Resume from '../assets/Laguerta-Resume.pdf'
 const Hero = () => {
   return (
-    <div className="h-screen bg-neutral-900 text-white">
+    <div name='home' className="h-screen bg-neutral-900 text-white">
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p>Hi! My name is </p>
         <h1 className="text-4xl sm:text-7xl font-bold">Gian Kyle Laguerta</h1>
