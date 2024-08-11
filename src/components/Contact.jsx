@@ -11,7 +11,7 @@ const Contact = () => {
         action="https://getform.io/f/5a9f7b84-540b-45b3-9758-2f60cdac224f"
         className="flex flex-col max-w-[600px] w-full"
       >
-        <div className="pb-8">
+        <div className="pb-8 test">
           <p className="text-4xl font-bold inline border-b-4 border-neutral-500">
             Contact
           </p>
