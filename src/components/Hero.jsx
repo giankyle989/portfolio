@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLongArrowAltRight } from "react-icons/fa";
 import { Link } from "react-scroll";
-import Resume from '../assets/Laguerta-Resume.pdf'
+import Resume from '../assets/Resume.pdf'
 const Hero = () => {
   return (
     <div name='home' className="h-screen bg-neutral-900 text-white">
